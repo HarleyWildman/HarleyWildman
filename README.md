@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarleyWildman
 - 👀 I’m interested in Computer Science, OS's mainly, but I have a passion for reverse engineering and discovering vulnerabilities.
-- 🌱 I’m currently learning the strength and intricacies of python, proper and practical uses for obscure linux OS's and cyber security engineering.
+- 🌱 I’m currently learning the strength and intricacies of python, proper and practical uses for obscure linux distros and cyber security engineering.
 - 💞️ I’m looking to collaborate on security tools.
 - 📫 How to reach me harley.wildman@wildt3ch.com.
 <!---
